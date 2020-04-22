@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1af284c76893d448e77e04fcf643c0, type: 3}
+  m_Name: sneakers
+  m_EditorClassIdentifier: 
+  itemName: Sneakers
+  description: Sneakers are shoes that are not suitable for snowdrifts and dirt it
+    is better to look for a replacement, if it is.
+  weight: 0.3
+  path: Prefabs/Clothes/sneakers
+  icon: {fileID: 21300000, guid: 7dbf1b15a409bfd42b687f471e4e2a06, type: 3}
+  coldProtection: 2
+  windProtection: 0.125
+  bodyPart: 7

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a051b133e5bd87468565deaa391060b, type: 3}
+  m_Name: CraftingData
+  m_EditorClassIdentifier: 
+  CraftItems:
+  - items:
+    - item: {fileID: 2673220103700492859, guid: e80f6e8f88337bc479c665f6e85c347e,
+        type: 3}
+      count: 1
+    craftedItem: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+      type: 3}
+    count: 10
+    waitTime: 90
+  - items:
+    - item: {fileID: 2947017072784766493, guid: 931701092b6c0df4caa0d726a89a4af6,
+        type: 3}
+      count: 10
+    craftedItem: {fileID: 1343743004134876107, guid: 1046ffaf42fd9064ea3c5cda6ececb3b,
+      type: 3}
+    count: 1
+    waitTime: 10
+  - items:
+    - item: {fileID: 2550869867189493996, guid: d14cfa00000f3cc4fb60bc2ee679955a,
+        type: 3}
+      count: 1
+    - item: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+        type: 3}
+      count: 2
+    craftedItem: {fileID: 6297912718681161108, guid: d76572d3c7d292e41994f0243d77bb55,
+      type: 3}
+    count: 1
+    waitTime: 60
+  - items:
+    - item: {fileID: 2550869867189493996, guid: d14cfa00000f3cc4fb60bc2ee679955a,
+        type: 3}
+      count: 1
+    craftedItem: {fileID: 9100280654846607465, guid: 46d8fcacddd43cd4d8c580948decb797,
+      type: 3}
+    count: 1
+    waitTime: 20
+  - items:
+    - item: {fileID: 2673220103700492859, guid: e80f6e8f88337bc479c665f6e85c347e,
+        type: 3}
+      count: 3
+    - item: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+        type: 3}
+      count: 2
+    craftedItem: {fileID: 3569607706681503932, guid: 9c7129b6346588b4e89ff65252c95342,
+      type: 3}
+    count: 1
+    waitTime: 240
+  - items:
+    - item: {fileID: 2673220103700492859, guid: e80f6e8f88337bc479c665f6e85c347e,
+        type: 3}
+      count: 6
+    - item: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+        type: 3}
+      count: 4
+    craftedItem: {fileID: 9155352210123016449, guid: d9c86e5e9805e5a4ab619ec23bacfef3,
+      type: 3}
+    count: 1
+    waitTime: 240
+  - items:
+    - item: {fileID: 2673220103700492859, guid: e80f6e8f88337bc479c665f6e85c347e,
+        type: 3}
+      count: 4
+    - item: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+        type: 3}
+      count: 3
+    craftedItem: {fileID: 4591730164704643802, guid: 80149813a523a9d45a227a6d7d23db5b,
+      type: 3}
+    count: 1
+    waitTime: 240
+  - items:
+    - item: {fileID: 2673220103700492859, guid: e80f6e8f88337bc479c665f6e85c347e,
+        type: 3}
+      count: 8
+    - item: {fileID: 4102730840763396375, guid: 859b78c9c802146498d83294c7dcdce8,
+        type: 3}
+      count: 4
+    craftedItem: {fileID: 3731989623301005684, guid: 0a4efb36084eb2641a2defa34db56636,
+      type: 3}
+    count: 1
+    waitTime: 300

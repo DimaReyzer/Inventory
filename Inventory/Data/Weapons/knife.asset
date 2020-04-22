@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2423c0b59cd704da46ec7901673832, type: 3}
+  m_Name: knife
+  m_EditorClassIdentifier: 
+  itemName: Knife
+  description: No description
+  weight: 0.5
+  path: Prefabs/Buildings/knife
+  icon: {fileID: 21300000, guid: ed9c50e14ab8588479a1760b546ec8a0, type: 3}
+  position: {x: 0.15, y: -0.1, z: 0.25}
+  rotation: {x: -90, y: 0, z: -90}
+  itemGameObject: {fileID: 6545191590937873184, guid: b3a56281794ea8948901e2b010b044ca,
+    type: 3}

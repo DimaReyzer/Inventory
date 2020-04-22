@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1af284c76893d448e77e04fcf643c0, type: 3}
+  m_Name: T-shirt
+  m_EditorClassIdentifier: 
+  itemName: T-shirt
+  description: T-shirt will not protect you from the wind and low temperature it is
+    better to find something else.
+  weight: 0.1
+  path: Prefabs/Clothes/T-shirt
+  icon: {fileID: 21300000, guid: 95044a115e6484147bec7b20ad3df496, type: 3}
+  coldProtection: 1
+  windProtection: 0
+  bodyPart: 1
